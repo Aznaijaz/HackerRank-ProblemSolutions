@@ -17,3 +17,10 @@
 - Place: Islamabad, Pakistan
 - Bio: GDSC MEMBER, Internee at Bytewise Limited
 - GitHub: [ilyas123ahmed](https://github.com/ilyas123ahmed)
+
+
+#### Name: [Azna Ijaz](https://github.com/Aznaijaz)
+
+- Place: Lahore, Pakistan
+- Bio: Internee at Bytewise Limited
+- GitHub: [aznaijaz6](https://github.com/Aznaijaz)
